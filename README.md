@@ -1,1 +1,1 @@
-# Accumulated-deposits-in-banks
+# Banks-deposits-accumulated
